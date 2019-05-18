@@ -1,2 +1,0 @@
-# Blaze
-Created with CodeSandbox
